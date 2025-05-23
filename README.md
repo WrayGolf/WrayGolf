@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @WrayGolf
+- @WrayGolf
 - Pronouns: He / Him
