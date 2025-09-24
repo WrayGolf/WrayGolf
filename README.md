@@ -10,5 +10,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WrayGolf&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <div align="left">
-  <img height="300" src="https://media1.tenor.com/m/9VzU28mYSRAAAAAd/kemono-friends-gray-wolf.gif"  />
+  <img height="300" src="https://media.tenor.com/vFbQZ1pifXcAAAAj/gray-wolf-kemono-friends.gif"  />
 </div>
