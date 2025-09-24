@@ -23,3 +23,7 @@
 <div align="left">
   <img height="300" src="https://media1.tenor.com/m/9VzU28mYSRAAAAAd/kemono-friends-gray-wolf.gif"  />
 </div>
+
+<br clear="both">
+
+<img align="left" height="300" src="https://media.tenor.com/vFbQZ1pifXcAAAAj/gray-wolf-kemono-friends.gif"  />
