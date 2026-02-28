@@ -6,7 +6,6 @@
 wray_golf/
 │
 ├── interests/
-│    │
 │    ├── tech/
 │    │    ├── GNU/Linux
 │    │    ├── Notebooks
