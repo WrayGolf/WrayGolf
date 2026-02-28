@@ -1,18 +1,15 @@
 ```bash
-wray_golf/
-│
+/
 ├── interests/
 │    ├── tech/
 │    │    ├── GNU/Linux
 │    │    ├── Notebooks
 │    │    └── Git
-│    │
 │    └── random/
 │          ├── Cats
 │          ├── Math
 │          ├── Coffee
 │          └── Engineering
-│
 └── hobbies/
       └── gaming/
             ├── Racing
