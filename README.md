@@ -1,5 +1,5 @@
 ```bash
-WRAY_GOLF/
+WRAYGOLF/
 ├── interests/
 │    ├── tech/
 │    │    ├── GNU/Linux
