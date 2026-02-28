@@ -11,7 +11,7 @@
 │          ├── Coffee
 │          └── Engineering
 └── hobbies/
-      └── gaming/
+      └── games/
             ├── Racing
             ├── Rhythm
             ├── RPG
