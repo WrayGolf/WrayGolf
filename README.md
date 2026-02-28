@@ -4,16 +4,14 @@
 
 ```bash
 wray_golf/
-├── about.txt
-├── skills/
-│   ├── languages.md
-│   ├── frameworks.md
-│   └── tools.md
-├── projects/
-│   ├── project-alpha/
-│   └── project-beta/
-├── currently_learning/
-│   └── distributed-systems.md
-└── contact/
-    ├── github.md
-    └── linkedin.md
+│
+├── interests/
+│   ├── music/
+│   ├── game/
+│   ├── tech/
+│   ├── other_media/
+│   └── random_stuff.md
+│
+└── hobbies/
+│   ├── gaming/
+│   └── random_talks/
