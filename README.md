@@ -6,12 +6,19 @@
 wray_golf/
 │
 ├── interests/
-│   ├── music/
-│   ├── game/
-│   ├── tech/
-│   ├── other_media/
-│   └── random_stuff.md
+│    │
+│    ├── tech/
+│    │    ├── GNU/Linux
+│    │    └── Git
+│    │
+│    └── random/
+│          ├── Cats
+│          ├── Coffee
+│          └── Cars
 │
 └── hobbies/
-│   ├── gaming/
-│   └── random_talks/
+      └── gaming/
+            ├── Racing
+            ├── Rhythm
+            ├── RPG
+            └── Visual Novels
