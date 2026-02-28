@@ -3,8 +3,8 @@ WRAY_GOLF/
 ├── interests/
 │    ├── tech/
 │    │    ├── GNU/Linux
-│    │    ├── Audio
-│    │    └── FOSS
+│    │    ├── FOSS
+│    │    └── Audio EQs
 │    ├── engineering/
 │    │    ├── Automotive
 │    │    └── Mechatronic
@@ -13,6 +13,10 @@ WRAY_GOLF/
 │          ├── Math
 │          └── Coffee
 └── hobbies/
+      ├── music/
+      │    ├── 
+      │    ├── 
+      │    └── 
       └── games/
             ├── Racing
             ├── Rhythm
