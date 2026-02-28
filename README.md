@@ -3,5 +3,5 @@
 </div>
 
 <div align="center">
-  <img height="150" src="https://media.tenor.com/vFbQZ1pifXcAAAAj/gray-wolf-kemono-friends.gif"  />
+  <img height="100%" src="https://media.tenor.com/vFbQZ1pifXcAAAAj/gray-wolf-kemono-friends.gif"  />
 </div>
