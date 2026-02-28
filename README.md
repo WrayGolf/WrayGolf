@@ -13,10 +13,6 @@ WRAY_GOLF/
 │          ├── Math
 │          └── Coffee
 └── hobbies/
-      ├── music/
-      │    ├── 
-      │    ├── 
-      │    └── 
       └── games/
             ├── Racing
             ├── Rhythm
