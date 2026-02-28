@@ -1,6 +1,4 @@
-<div align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=100&size=16&letterSpacing=-1px&duration=2500&pause=1250&color=00FFFF&center=true&vCenter=true&random=true&width=512&height=64&lines=Quick+nymph+bugs+vex+fjord+waltz.;Waltz%2C+bad+nymph%2C+for+quick+jigs+vex.;Glib+jocks+quiz+nymph+to+vex+dwarf.;Sphinx+of+black+quartz%2C+judge+my+vow.;How+quickly+daft+jumping+zebras+vex!;The+five+boxing+wizards+jump+quickly.;Jackdaws+love+my+big+sphinx+of+quartz.;Pack+my+box+with+five+dozen+liquor+jugs." alt="Typing SVG" /></a> 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=24&duration=2500&pause=1250&center=true&vCenter=true&repeat=false&width=435&lines=Cwm+fjord+veg+balks+nth+pyx+quiz.+;Cwm+fjord+bank+glyphs+vext+quiz.;Jink+cwm%2C+zag+veldt%2C+fob+qursh+pyx.;Junky+qoph-flags+vext+crwd+zimb.;Squdgy+fez%2C+blank+jimp+crwth+vox!;Veldt+jynx+grimps+waqf+zho+buck.;Bortz+waqf+glyphs+vex+muck+djin.)](https://git.io/typing-svg)
 
 ```bash
 wray_golf/
