@@ -5,17 +5,14 @@ WRAYGOLF/
 │    │    ├── GNU/Linux
 │    │    ├── FOSS
 │    │    └── Audio EQs
-│    ├── engineering/
-│    │    ├── Automotive
-│    │    └── Mechatronic
-│    └── random/
-│          ├── Cats
-│          ├── Math
-│          └── Coffee
+│    └── engineering/
+│          ├── Automotive
+│          └── Mechatronic
 └── hobbies/
       └── games/
             ├── Racing
             ├── Rhythm
+            ├── Schmup/Bullet Hell
             └── Visual Novel
 ```
 
