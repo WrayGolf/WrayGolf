@@ -2,9 +2,9 @@
 WRAYGOLF/
 ├── interests/
 │    ├── tech/
-│    │    ├── GNU/Linux
+│    │    ├── Audio
 │    │    ├── FOSS
-│    │    └── Audio EQs
+│    │    └── GNU/Linux
 │    └── engineering/
 │          ├── Automotive
 │          └── Mechatronic
