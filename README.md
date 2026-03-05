@@ -2,9 +2,10 @@
 WRAYGOLF/
 ├── interests/
 │    ├── tech/
-│    │    ├── Audio
 │    │    ├── FOSS
-│    │    └── GNU/Linux
+│    │    ├── GNU/Linux
+│    │    ├── Privacy
+│    │    └── Security
 │    └── engineering/
 │          ├── Automotive
 │          └── Mechatronic
